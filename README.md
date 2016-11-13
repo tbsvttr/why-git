@@ -29,4 +29,4 @@ Die Entwicklung von Git ist eine Erfolgsgeschichte. Als [Linus Torvalds](https:/
 
 Klingt gut? Aber wie anfangen? Die ersten Anlaufstellen sollten die offizielle Website von [Git](https://git-scm.com/) sowie die (kommerziellen) Implementationen GitHub (https://github.com/) und [Atlassian](https://bitbucket.org/) sein. Dort findet ihr eigentlich alle Anleitungen und Tools, welche ihr benötigt, um loszulegen.
 
-Wer eine etwas detaillierte und geführte Einleitung zu GitHub sucht, sollte ein Blick auf [den entsprechenden Kurs von Jan bei Udemy](https://www.udemy.com/github-fuer-entwickler/) werfen.
+Wer eine etwas detaillierte und geführte Einleitung zu GitHub sucht, sollte ein Blick auf [den entsprechenden Kurs von Jan](http://www.lernmoment.de/einstieg-github/) werfen.

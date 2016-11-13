@@ -23,7 +23,7 @@ Die Entwicklung von Git ist eine Erfolgsgeschichte. Als [Linus Torvalds](https:/
    Software.
    
  - **Gemeinschaft und Freiheit**: Git ist nicht nur kostenlose, sondern auch
-   [freie Software](https://de.wikipedia.org/wiki/Freie_Software). Das heißt der Quellcode steht offen bereit und Mitarbeit ist sogarerwünscht. Verletzungen des Urheberrechts oder rechtliche Konflikte
+   [freie Software](https://de.wikipedia.org/wiki/Freie_Software). Das heißt der Quellcode steht offen bereit und Mitarbeit ist sogar erwünscht. Verletzungen des Urheberrechts oder rechtliche Konflikte
    sind ausgeschlossen. Darüber hinaus existiert ein nahezu riesiges Ökosystem aus Dokumentationen und Erklärungen, Tools, Plattformen, Dienstleistern sowie Plug-Ins. Hinsichtlich des gemeinschaftlichen
    Aspekts sei GitHub hervorgehoben, welches sich in den letzten Jahren zum Code-Graphen entwickelt hat wie sich auch Facebook einige Jahr vorher zum Social-Graphen entwickelt hatte. Hier finden man abertausende Entwickler und deren Softwareprojekte. Dies erlaubt die offene, kollaborative und kosmopolitische Entwicklung von Software sowie die Vernetzung der Entwickler.
 

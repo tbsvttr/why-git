@@ -27,6 +27,6 @@ Die Entwicklung von Git ist eine Erfolgsgeschichte. Als [Linus Torvalds](https:/
    sind ausgeschlossen. Darüber hinaus existiert ein nahezu riesiges Ökosystem aus Dokumentationen und Erklärungen, Tools, Plattformen, Dienstleistern sowie Plug-Ins. Hinsichtlich des gemeinschaftlichen
    Aspekts sei GitHub hervorgehoben, welches sich in den letzten Jahren zum Code-Graphen entwickelt hat wie sich auch Facebook einige Jahr vorher zum Social-Graphen entwickelt hatte. Hier finden man abertausende Entwickler und deren Softwareprojekte. Dies erlaubt die offene, kollaborative und kosmopolitische Entwicklung von Software sowie die Vernetzung der Entwickler.
 
-Klingt gut? Aber wie anfangen? Die ersten Anlaufstellen sollten die offizielle Website von [Git](https://git-scm.com/) sowie die (kommerziellen) Implementationen GitHub (https://github.com/) und [Atlassian](https://bitbucket.org/) sein. Dort findet ihr eigentlich alle Anleitungen und Tools, welche ihr benötigt, um loszulegen.
+Klingt gut? Aber wie anfangen? Die ersten Anlaufstellen sollten die offizielle Website von [Git](https://git-scm.com/) sowie die (kommerziellen) Implementationen [GitHub](https://github.com/) und [Atlassian](https://bitbucket.org/) sein. Dort findet ihr eigentlich alle Anleitungen und Tools, welche ihr benötigt, um loszulegen.
 
 Wer eine etwas detaillierte und geführte Einleitung zu GitHub sucht, sollte ein Blick auf [den entsprechenden Kurs von Jan](http://www.lernmoment.de/einstieg-github/) werfen.

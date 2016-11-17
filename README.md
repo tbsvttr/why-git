@@ -24,7 +24,7 @@ Die Entwicklung von Git ist eine Erfolgsgeschichte. Als [Linus Torvalds](https:/
  - **Gemeinschaft und Freiheit**: Git ist nicht nur kostenlose, sondern auch
    [freie Software](https://de.wikipedia.org/wiki/Freie_Software). Das heißt der Quellcode steht offen bereit und Mitarbeit ist sogar erwünscht. Verletzungen des Urheberrechts oder rechtliche Konflikte
    sind ausgeschlossen. Darüber hinaus existiert ein nahezu riesiges Ökosystem aus Dokumentationen und Erklärungen, Tools, Plattformen, Dienstleistern sowie Plug-Ins. Hinsichtlich des gemeinschaftlichen
-   Aspekts sei GitHub hervorgehoben, welches sich in den letzten Jahren zum Code-Graphen entwickelt hat wie sich auch Facebook einige Jahr vorher zum Social-Graphen entwickelt hatte. Hier findet man abertausende Entwickler und deren Softwareprojekte. Dies erlaubt die offene, kollaborative und kosmopolitische Entwicklung von Software sowie die Vernetzung der Entwickler.
+   Aspekts sei GitHub hervorgehoben, welches sich in den letzten Jahren zum Code-Graphen entwickelt hat wie sich auch Facebook einige Jahr vorher zum (http://www.businessinsider.com/explainer-what-exactly-is-the-social-graph-2012-3)[Social-Graphen] entwickelt hatte. Hier findet man abertausende Entwickler und deren Softwareprojekte. Dies erlaubt die offene, kollaborative und kosmopolitische Entwicklung von Software sowie die Vernetzung der Entwickler.
 
 Klingt gut? Aber wie anfangen? Die ersten Anlaufstellen sollten die offizielle Website von [Git](https://git-scm.com/) sowie die (kommerziellen) Implementationen [GitHub](https://github.com/) und [Atlassian](https://bitbucket.org/) sein. Dort findet ihr eigentlich alle Anleitungen und Tools, welche ihr benötigt, um loszulegen.
 
